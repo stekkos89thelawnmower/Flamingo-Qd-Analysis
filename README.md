@@ -7,6 +7,8 @@ Reproducible notebooks accompanying the technical reports:
 2. Differential comparison of FLAMINGO variants
 3. Robustness tests and preregistered validation
 
+If there are any issues running a cell, please contact me.
+
 Author: Stefano Boi
 E-mail: stefano.boi1989@tiscali.it
 Affiliation: Independent Researcher
